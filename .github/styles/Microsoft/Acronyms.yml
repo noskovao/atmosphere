@@ -15,8 +15,10 @@ exceptions:
   - CSS
   - CSV
   - DEBUG
+  - DIMM
   - DOM
   - DPI
+  - ECC
   - FAQ
   - GCC
   - GDB
@@ -28,6 +30,7 @@ exceptions:
   - HTTP
   - HTTPS
   - IDE
+  - IPMI
   - JAR
   - JSON
   - JSX
@@ -47,6 +50,7 @@ exceptions:
   - SCM
   - SCSS
   - SDK
+  - SEL
   - SQL
   - SSH
   - SSL
