@@ -13,6 +13,7 @@ Ceph
 DNS
 Glance
 HBA
+IPMI
 JWT
 LUN
 Magnum
